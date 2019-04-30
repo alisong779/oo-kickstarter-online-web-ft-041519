@@ -6,4 +6,8 @@ attr_reader :backed_projects, :name
     @backed_projects = []
   end 
   
+  def back_project(title)
+  
+  end 
+  
 end 
